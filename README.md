@@ -18,5 +18,5 @@ Linux için:
  ## License 
  [MIT](https://choosealicense.com/licenses/mit/)
  
- ![Patika.dev](image.png)
+ ![Patika.dev](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 
